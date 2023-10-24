@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: Gloablmart
+    database: Raw
+    schema: GLOBAL_MART
+    tables:
+      - name: Customers
+      - name: Orders
+      - name: Products
